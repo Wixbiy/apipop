@@ -1,0 +1,3 @@
+{
+    "isLegal": true
+}
